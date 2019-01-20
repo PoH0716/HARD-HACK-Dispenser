@@ -1,1 +1,1 @@
-export GOOGLE_APPLICATION_CREDENTIALS="/mnt/c/Users/Curtis/Documents/Python/hardhack19/hardhack2019.json"
+export GOOGLE_APPLICATION_CREDENTIALS="/mnt/c/Users/Curtis/Documents/Python/HARD-HACK-Dispenser/hardhack2019.json"
