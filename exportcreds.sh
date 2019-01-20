@@ -1,0 +1,1 @@
+export GOOGLE_APPLICATION_CREDENTIALS="/mnt/c/Users/Curtis/Documents/Python/hardhack19/hardhack2019.json"
